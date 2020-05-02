@@ -1,7 +1,7 @@
 # Implementing-CRISP-DM-on-Airbnb-data
 
 Here is an analysis of the Airbnb data by iplementing CRISP-DM and finding a solution to few questions with appropriate charts and dashboards.       
-You can also find my article about this analysis in the link here[](https://medium.com/@xpressprat/data-science-approach-to-visualize-and-provide-insights-to-airbnb-data-3a6ca3acc54d)
+You can also find my article about this analysis in the link [HERE](https://medium.com/@xpressprat/data-science-approach-to-visualize-and-provide-insights-to-airbnb-data-3a6ca3acc54d)
 
 
 ## Table Of Contents  
